@@ -19,13 +19,8 @@ const SuperQuality = () => {
                 </h2>
                 <p className='mt-4 lg:max-w-lg info-text'>Ensuring Premium comfort and style, our meticulously crafted footwear is designed to elevate your experience , providing you with unmatched quality , innovation , and a touch of elegance.</p>
                 <p className='mt-6 lg:max-w-lg info-text '>Our Dedication to detail and excellence ensures your satisfaction</p>
-                <div className='mt-11 flex flex-warp gap-4'>
+                <div className='mt-11'>
                     <Button label="Shop now" iconURL={arrowRight}/>
-                    <Button
-                    label="Learn more"
-                    backgroundColor = "bg-white"
-                    borderColor = "border-slate-gray"
-                    />
                 </div>
             </div>
         <div className='flex-1 flex justify-center items-center '>
